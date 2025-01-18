@@ -1,0 +1,12 @@
+Make an swift-ui app that will be the app that teach many skill to user here detail about it
+- The app name is Enchant by @jnx03
+- The app will be optimized the leason base on user
+- The app will have Leason , Game , Partice Section
+- The app will Teaching about The basic of music , python , swiftui , english , thai
+- The app can be swich between dark-theme and white-theme
+
+Make the UI like duolingo and add the acculay leason (you can make it import from json file)
+
+Add First let user add leason to learn first and then make it save to user storage that they have a class of ... and progress of ...
+
+And when first entry the app make It ask you username with the good ui look and then ask them age , how much they want to learn per day/week
