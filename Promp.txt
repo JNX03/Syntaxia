@@ -1,0 +1,48 @@
+Sample 1
+
+The beauty of programming is the ability to make a fun and educational piece of software with only fundamental technologies that we take for granted.
+
+That said, I have first and foremost implemented UIKit for everything concerning the user interface. Indeed, the latter is an incredibly powerful and well-established framework that allows the creation and presentation of accurate and precise interface elements, enabling an immersive user experience. Besides, I have also implemented the AVFoundation framework to work with audio assets and to make the overall adventure more pleasant. The calm background music and the subtle but satisfying sound effects efficiently elevate the user's journey through the software's various views and tones.
+
+This playground is a reasonably simple game. Nonetheless, I haven't mentioned so far the star of the show, the one and only, drag and drop. Most of the time, this feature is only present as a commodity in utility and productivity applications. However, this game tries to subvert the norm by making this feature the core of its functionality. I firmly believe that every framework can be as powerful and as practical as one is willing to make them.
+
+Admittedly, there are boundaries in software development, but there is always a way around them. As such, there are no actual limits in programming. Instead, we are bound to set and conform to standards.
+
+I hope that the use of drag and drop, as this game's main feature, provides insight at how a software developer can use all the tools at his disposal. Every one of our crazy app ideas can become a reality!
+
+Sample 2
+
+I've always had an affinity for traditions. However, I ensure that these traditions propel me forward and push me to do and become better. One tradition started three years ago: using a different framework for every new Swift Student Challenge submission. UIKit was for 2020, SpriteKit for 2021, and SwiftUI for 2022.
+
+This year, I could have used a framework like AppKit or SceneKit. Yet, I wished to stay true to my tradition while making something unique for, potentially, my last chance to receive this award. I wanted to gather the experience I gained from creating my older submissions: a nod to the past. As such, I decided not to use one framework, not two, but three frameworks: UIKit, SpriteKit, and SwiftUI! Also, let's not forget AVFoundation, which has been with me since the start, and CoreGraphics since last year.
+
+Therefore, I made a game, not because I'm using SpriteKit, but because this challenge made me realize how fun it is to create assets, conceive gameplay, and write dialog. By coding with SpriteKit and designing various distinct assets, I built a lively world where clouds disturb the sun, wind sways the grass, and windows light up in sync.
+
+Where the latter framework makes up the project's heart and soul, UIKit is its bones and skin. I used it to build the title screen and to complete levels with essential gameplay elements like the sliders. The latter guarantees that the game is not educational storytelling between two characters but an action-packed story requiring three characters: Colin, Shay, and the user.
+
+With the body of the project done, it was time to give it a brain. The user can get introduced to color theory through the character's adventure to find their mother. However, they can also dive deeper into the subject by accessing a level's "Learn more" section, built with SwiftUI. The latter delivers the perfect flexibility to create a generic yet beautiful view that I can use to share knowledge through detailed paragraphs and images.
+
+Sample 3
+The Swift Student Challenge is the best time to exit my comfort zone and make something new, bold, and outlandish. I've always believed that great software comes into being only when its creator is proud of it, just like a parent is with his child. As such, this was my chance to make myself proud and to go further than I ever went in the vast land of Swift programming. I stumbled upon an idea that had always intrigued and fascinated me: making a game with SpriteKit. I had no idea how to use this framework, nor how to get started learning it. Thankfully, the learning curve was a lot more straightforward than I had imagined, and after looking into the documentation and searching for help on developer forums, I told myself: « Wow! I can actually make a game! » And so I did. I started using SpriteKit and coding everything programmatically; because all challenges are challenging. With some visual assets from the vast SF Symbols library and my digital art skills, I made something unique to me that also felt at home on iOS. I also used the knowledge I had gained in physics class to implement electric fields and charged particles. I now knew what the game was to become. However, SpriteKit was not enough.
+
+All the visuals were fantastic, but relying on sight as the only stimulated sense was not sufficient. The user has to feel the experience in more than one way. Therefore, I thought about invoking taste and smell, but this idea was not tangible. I then turned my attention to one of the most common yet most effective frameworks to achieve my goal. It was none other than AVFoundation to bring hearing senses into the mix and make the experience a lot more palpable for the users. A combination of visuals and sounds was the most logical and the safest bet. But wait, this was still not enough!
+
+Focusing on software is no small feat, but why should I only be limited by the digital world? There are so much more possibilities with all the sensors embedded underneath the shell of our daily devices. Ever since the original iPhone pioneered the use of accelerometers on handheld devices, and the iPhone 4 propagated the use of gyroscopes in our daily drivers, so many new possibilities opened to developers. Hence, I seized my chance to learn about CoreMotion and implement a feature for each of these sensors. Indeed, the accelerometer provides an excellent opportunity to create a custom parallax effect, making software feel more in sync with the physical world. Besides, the gyroscope is the main star of the show as it is responsible for making the character move when the device is rotating on its z-axis.
+
+All in all, the Swift Student Challenge is a genuinely enjoyable opportunity to revisit and learn new frameworks and technologies and to share that knowledge with others!
+
+Sample 4
+As my self-imposed tradition wants it, I used a new and different framework to build this year's project. After UIKit in 2020 and SpriteKit in 2021, it's now SwiftUI's turn to feel the wrath of my mighty and limitless imagination!
+
+The Swift Student Challenge is the best opportunity to challenge myself to make something I hadn't done before, something I didn't know how to do. It's also a substantial occasion to grasp new concepts within and beyond the Swift programming realm. I learned and relearned trigonometry and modularity. I also came across the incredibly complex but fascinating Mandelbrot set. Juggling between arithmetic and geometry was something I had never done before in programming, especially not with SwiftUI. Yet, the latter framework helped me effortlessly build complex shapes accompanied by beautiful animations and smooth transitions.
+
+Moreover, I always enjoy mixing the analytical world of math with the creative world of art. Working with SwiftUI is especially compelling for creating customizable interfaces and layouts. Its lightweight syntax and its ability to manage the rendering of views are fundamental features in making the development process quicker and more exciting. These advantages also pushed me to be more creative in the layout and fiddle with color tinting, shading, mixing, luminance, and contrast ratio (significant for visually impaired users).
+
+In addition, I used the CoreGraphics and UniformTypeIdentifiers frameworks. Rarely put under the spotlight, both were instrumental in exporting and sharing the app's contents with the outside world. Sharing and interacting are essential to our society. Therefore, I have used these frameworks to generate still images and moving GIFs of the user's creations within the app.
+
+Finally, I used UIKit for minor yet critical functionality. Where SwiftUI felt short on some tasks, UIKit was always ready to help compensate in actions such as copying the generated file to the clipboard. I also used AVFoundation to bring in pleasant background music next to the enchanting visuals.
+
+At last, this year's Swift Student Challenge was yet another incredible year of learning, building, and sharing!
+
+
+Here the job you have to do from the sample 1-4 Can you write me like that about this "In the world that technology become a significant part of our life get to know everything will be a much use-full skill beside that improving your self in the same traditional method won't work for everyone, Introuducting to "FutureMe" that will be a comprehensive platform that allow you to learn littly every single skills (From Basic of Music to The advance Coding and AI , this also including Language) this leason optimized base on your personality but even it " As long as the sample  (Max is 350 word) and same pattern as the sample too! 
