@@ -18,3 +18,13 @@ And some level user have to use they brain to be create an innovation in the gam
 the model of the character will be .vrm file like a vtuver (This is the acculay project )
 
 Every level will be adjust base on user if user can able to do it fast , nice score it will be harder in otherhand if the  player do it slow , low score it will be adjust to be more easy
+
+
+Synta-chan (シンタちゃん)
+
+"Syn" becomes "Synta," giving it a softer, Japanese-friendly sound.
+The "-chan" suffix adds a cute and affectionate tone.
+Syn-chan (シンちゃん)
+
+A simpler, cuter version that keeps the base "Syn" intact.
+Short and easy to remember.
