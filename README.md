@@ -14,7 +14,7 @@ More about the Swift Student Challenge: https://developer.apple.com/swift-studen
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
-|[Jnx03](https://www.jnx03.xyz/)|[GitHub](https://github.com/JNX03/Syntaxia-WWDC-2025)|[Video](https://youtu.be/zJ4cAt7An84)|SwiftUI, Speech synthesis, Natural Language, Avfoundation , AVKit , AudioToolbox , Vision , UniformTypeIdentifiers , ScreenKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Jnx03](https://www.jnx03.xyz/)|[GitHub](https://github.com/JNX03/Syntaxia)|[Video](https://youtu.be/zJ4cAt7An84)|SwiftUI, Speech synthesis, Natural Language, Avfoundation , AVKit , AudioToolbox , Vision , UniformTypeIdentifiers , ScreenKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
 
 # Story
