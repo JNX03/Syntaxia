@@ -20,8 +20,8 @@ More about the Swift Student Challenge: https://developer.apple.com/swift-studen
 # Story
 The character's name is "Syntaxia-chan", a high school student who faces problems as her classmate "Yuki-Ai chan", who gets sucked into the Matrix computer and loses her sanity. Her try to help but she can't she even't don't know how to programing but later on the discovery the headset that bring she to the internet world she connected to her and learning the basic of the python , swift  and facing many level to the last level she learn many of AI and manage to recovery Yuki Sanity back and everything end happyly
 
-# Credit (But btw i create eveything)
-All Assest create by me (  [@Jnx03](https://www.youtube.com/@Jnx03/videos)  ) Publish on  [@Jnx03Studio ](https://www.youtube.com/@Jnx03Studio) 
+# Credit
+All Assest create by me (  [@Jnx03](https://www.youtube.com/@Jnx03/videos)  ) Publish on  [@Jnx03Studio](https://www.youtube.com/@Jnx03Studio) 
 
 #WWDC #Swift #SwiftStudentChallenge
 
