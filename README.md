@@ -3,6 +3,11 @@
 
 Hi I'm jean and this is my submission for Swift Student Challenge 2025 ✨.
 
+## 📌 Looking Ahead
+> [!NOTE]  
+> Hello! 👋 Want more project ideas for my 2026 submission? 👀  
+> My **2026 Swift Student Challenge submission** will be published **one week after the submission period closes**.  
+> 👉 https://github.com/JNX03/Neuralia
 ----
 
 Source Code: https://github.com/JNX03/Syntaxia-WWDC-2025 <br>
